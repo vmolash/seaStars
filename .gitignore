@@ -1,0 +1,5 @@
+*.txt
+trash/
+
+.DS_Store
+thumbs.db
